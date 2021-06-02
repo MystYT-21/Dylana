@@ -1,2 +1,2 @@
 # Dylana
-Dylana is a Self, Music Bot with stabled Connection! Made with ❤️ by MysT
+Dylana is a Music Bot with stabled Connection! Made with ❤️ by MysT
